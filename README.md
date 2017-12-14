@@ -12,3 +12,5 @@ Un click sur le bouton doit mettre cette couleur en fond
 ## 3e étape
 quand la case #modify-texte est cochée, la couleur du texte
  doit etre modifiée
+
+https://fowder.github.io/jq-colors/
